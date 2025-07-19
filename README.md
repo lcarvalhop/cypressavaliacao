@@ -1,2 +1,0 @@
-# cypressavaliacao
-Avaliaçao ultima nota
